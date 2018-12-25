@@ -1,4 +1,4 @@
-package com.own.business.util;
+package com.own.business.qrcode.util;
 
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.EncodeHintType;

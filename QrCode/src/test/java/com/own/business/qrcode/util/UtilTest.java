@@ -1,7 +1,6 @@
 package com.own.business.qrcode.util;
 
 import com.google.zxing.WriterException;
-import com.own.business.util.QrUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
