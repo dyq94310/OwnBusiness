@@ -29,3 +29,6 @@ hs_err_pid*
 *.ipr
 
 .gradle
+
+### MAVEN ²»Çå³þ###
+.mvn

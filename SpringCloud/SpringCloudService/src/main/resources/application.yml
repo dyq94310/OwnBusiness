@@ -1,0 +1,18 @@
+server:
+  port: 8880
+spring:
+  application:
+    name: eurka-server
+  security:
+    user:
+      name: admin
+      password: admin
+eureka:
+  instance:
+    hostname: ${spring.cloud.client.ip-address}
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}
+

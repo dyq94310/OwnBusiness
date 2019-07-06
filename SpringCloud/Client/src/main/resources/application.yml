@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: c1
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8880/eureka/
