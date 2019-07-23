@@ -35,7 +35,7 @@ public class QrController {
 
     @ApiOperation(value = "错误测试")
     @PostMapping(value = "/jexception")
-        public void testJsonException() throws TestException {
+    public void testJsonException() throws TestException {
         throw new TestException("出错了JSON");
     }
 

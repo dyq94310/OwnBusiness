@@ -2,5 +2,5 @@ server:
   port: 9092
 spring:
   application:
-    name: c1-app
+    name: service-hi
 
