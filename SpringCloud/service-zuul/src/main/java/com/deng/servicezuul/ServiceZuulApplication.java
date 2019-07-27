@@ -1,20 +1,17 @@
-package com.deng;
+package com.deng.servicezuul;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
-import org.springframework.cloud.netflix.hystrix.EnableHystrix;
+import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 
-/**
- * @author DengYongQi
- * @date 2019-07-07
- **/
-@EnableHystrix
+@EnableZuulProxy
 @EnableEurekaClient
 @SpringBootApplication
-public class RibbonApplication {
+public class ServiceZuulApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RibbonApplication.class, args);
+        SpringApplication.run(ServiceZuulApplication.class, args);
     }
+
 }
