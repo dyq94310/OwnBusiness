@@ -21,7 +21,7 @@ public class HelloService {
     }
 
     private String hiServiceFallback(String name) {
-        return "hi,"+name+",sorry,error!";
+        return "hi," + name + ",sorry,error!";
     }
 
 }

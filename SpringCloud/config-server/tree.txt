@@ -1,0 +1,185 @@
+[INFO] Scanning for projects...
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/johnzon/johnzon-maven-plugin/1.1.12/johnzon-maven-plugin-1.1.12.pom
+Progress (1): 2.4/3.6 kBProgress (1): 3.6 kB                        Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/johnzon/johnzon-maven-plugin/1.1.12/johnzon-maven-plugin-1.1.12.pom (3.6 kB at 2.7 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/johnzon/johnzon/1.1.12/johnzon-1.1.12.pom
+Progress (1): 3.9/25 kBProgress (1): 8.0/25 kBProgress (1): 12/25 kB Progress (1): 15/25 kBProgress (1): 19/25 kBProgress (1): 22/25 kBProgress (1): 25 kB                      Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/johnzon/johnzon/1.1.12/johnzon-1.1.12.pom (25 kB at 56 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/johnzon/johnzon-maven-plugin/1.1.12/johnzon-maven-plugin-1.1.12.jar
+Progress (1): 2.4/26 kBProgress (1): 5.2/26 kBProgress (1): 8.1/26 kBProgress (1): 12/26 kB Progress (1): 16/26 kBProgress (1): 20/26 kBProgress (1): 22/26 kBProgress (1): 25/26 kBProgress (1): 26 kB                      Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/johnzon/johnzon-maven-plugin/1.1.12/johnzon-maven-plugin-1.1.12.jar (26 kB at 39 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/jetbrains/kotlin/kotlin-maven-plugin/1.2.71/kotlin-maven-plugin-1.2.71.pom
+Progress (1): 4.1/6.1 kBProgress (1): 6.1 kB                        Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/jetbrains/kotlin/kotlin-maven-plugin/1.2.71/kotlin-maven-plugin-1.2.71.pom (6.1 kB at 16 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/jetbrains/kotlin/kotlin-project/1.2.71/kotlin-project-1.2.71.pom
+Progress (1): 4.1/10 kBProgress (1): 6.7/10 kBProgress (1): 10 kB                       Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/jetbrains/kotlin/kotlin-project/1.2.71/kotlin-project-1.2.71.pom (10 kB at 12 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/jetbrains/kotlin/kotlin-maven-plugin/1.2.71/kotlin-maven-plugin-1.2.71.jar
+Progress (1): 4.1/79 kBProgress (1): 8.1/79 kBProgress (1): 11/79 kB Progress (1): 15/79 kBProgress (1): 19/79 kBProgress (1): 22/79 kBProgress (1): 26/79 kBProgress (1): 31/79 kBProgress (1): 35/79 kBProgress (1): 39/79 kBProgress (1): 43/79 kBProgress (1): 46/79 kBProgress (1): 48/79 kBProgress (1): 53/79 kBProgress (1): 57/79 kBProgress (1): 61/79 kBProgress (1): 65/79 kBProgress (1): 69/79 kBProgress (1): 73/79 kBProgress (1): 77/79 kBProgress (1): 79 kB                      Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/jetbrains/kotlin/kotlin-maven-plugin/1.2.71/kotlin-maven-plugin-1.2.71.jar (79 kB at 148 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/jooq/jooq-codegen-maven/3.11.11/jooq-codegen-maven-3.11.11.pom
+Progress (1): 3.5 kB                    Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/jooq/jooq-codegen-maven/3.11.11/jooq-codegen-maven-3.11.11.pom (3.5 kB at 10 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/jooq/jooq-parent/3.11.11/jooq-parent-3.11.11.pom
+Progress (1): 3.6/11 kBProgress (1): 7.7/11 kBProgress (1): 11 kB                       Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/jooq/jooq-parent/3.11.11/jooq-parent-3.11.11.pom (11 kB at 23 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/jooq/jooq-codegen-maven/3.11.11/jooq-codegen-maven-3.11.11.jar
+Progress (1): 3.9/16 kBProgress (1): 8.0/16 kBProgress (1): 12/16 kB Progress (1): 16/16 kBProgress (1): 16 kB                      Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/jooq/jooq-codegen-maven/3.11.11/jooq-codegen-maven-3.11.11.jar (16 kB at 36 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/plugins/maven-assembly-plugin/3.1.1/maven-assembly-plugin-3.1.1.pom
+Progress (1): 3.9/15 kBProgress (1): 8.0/15 kBProgress (1): 12/15 kB Progress (1): 15 kB                      Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/plugins/maven-assembly-plugin/3.1.1/maven-assembly-plugin-3.1.1.pom (15 kB at 30 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/plugins/maven-assembly-plugin/3.1.1/maven-assembly-plugin-3.1.1.jar
+Progress (1): 2.4/236 kBProgress (1): 5.2/236 kBProgress (1): 9.3/236 kBProgress (1): 13/236 kB Progress (1): 18/236 kBProgress (1): 22/236 kBProgress (1): 25/236 kBProgress (1): 29/236 kBProgress (1): 33/236 kBProgress (1): 38/236 kBProgress (1): 42/236 kBProgress (1): 46/236 kBProgress (1): 50/236 kBProgress (1): 53/236 kBProgress (1): 57/236 kBProgress (1): 61/236 kBProgress (1): 65/236 kBProgress (1): 69/236 kBProgress (1): 73/236 kBProgress (1): 77/236 kBProgress (1): 81/236 kBProgress (1): 85/236 kBProgress (1): 89/236 kBProgress (1): 94/236 kBProgress (1): 98/236 kBProgress (1): 102/236 kBProgress (1): 104/236 kBProgress (1): 108/236 kBProgress (1): 113/236 kBProgress (1): 117/236 kBProgress (1): 119/236 kBProgress (1): 122/236 kBProgress (1): 126/236 kBProgress (1): 131/236 kBProgress (1): 135/236 kBProgress (1): 139/236 kBProgress (1): 142/236 kBProgress (1): 146/236 kBProgress (1): 151/236 kBProgress (1): 155/236 kBProgress (1): 159/236 kBProgress (1): 163/236 kBProgress (1): 167/236 kBProgress (1): 171/236 kBProgress (1): 175/236 kBProgress (1): 179/236 kBProgress (1): 183/236 kBProgress (1): 187/236 kBProgress (1): 191/236 kBProgress (1): 196/236 kBProgress (1): 200/236 kBProgress (1): 204/236 kBProgress (1): 208/236 kBProgress (1): 212/236 kBProgress (1): 216/236 kBProgress (1): 219/236 kBProgress (1): 224/236 kBProgress (1): 228/236 kBProgress (1): 232/236 kBProgress (1): 236/236 kBProgress (1): 236 kB                        Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/plugins/maven-assembly-plugin/3.1.1/maven-assembly-plugin-3.1.1.jar (236 kB at 299 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/plugins/maven-dependency-plugin/3.1.1/maven-dependency-plugin-3.1.1.pom
+Progress (1): 3.9/15 kBProgress (1): 8.0/15 kBProgress (1): 12/15 kB Progress (1): 15 kB                      Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/plugins/maven-dependency-plugin/3.1.1/maven-dependency-plugin-3.1.1.pom (15 kB at 24 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/plugins/maven-dependency-plugin/3.1.1/maven-dependency-plugin-3.1.1.jar
+Progress (1): 3.9/167 kBProgress (1): 8.0/167 kBProgress (1): 12/167 kB Progress (1): 15/167 kBProgress (1): 19/167 kBProgress (1): 22/167 kBProgress (1): 26/167 kBProgress (1): 31/167 kBProgress (1): 35/167 kBProgress (1): 39/167 kBProgress (1): 43/167 kBProgress (1): 47/167 kBProgress (1): 51/167 kBProgress (1): 55/167 kBProgress (1): 59/167 kBProgress (1): 63/167 kBProgress (1): 67/167 kBProgress (1): 72/167 kBProgress (1): 76/167 kBProgress (1): 80/167 kBProgress (1): 84/167 kBProgress (1): 88/167 kBProgress (1): 92/167 kBProgress (1): 96/167 kBProgress (1): 100/167 kBProgress (1): 104/167 kBProgress (1): 108/167 kBProgress (1): 112/167 kBProgress (1): 117/167 kBProgress (1): 119/167 kBProgress (1): 122/167 kBProgress (1): 126/167 kBProgress (1): 131/167 kBProgress (1): 135/167 kBProgress (1): 139/167 kBProgress (1): 143/167 kBProgress (1): 147/167 kBProgress (1): 151/167 kBProgress (1): 155/167 kBProgress (1): 159/167 kBProgress (1): 163/167 kBProgress (1): 167 kB                        Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/plugins/maven-dependency-plugin/3.1.1/maven-dependency-plugin-3.1.1.jar (167 kB at 254 kB/s)
+[INFO] 
+[INFO] -----------------------< com.deng:config-server >-----------------------
+[INFO] Building config-server 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:3.1.1:tree (default-cli) @ config-server ---
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/shared/maven-dependency-analyzer/1.10/maven-dependency-analyzer-1.10.pom
+Progress (1): 3.9/6.7 kBProgress (1): 6.7 kB                        Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/shared/maven-dependency-analyzer/1.10/maven-dependency-analyzer-1.10.pom (6.7 kB at 12 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/ow2/asm/asm/6.1.1/asm-6.1.1.pom
+Progress (1): 2.4/2.9 kBProgress (1): 2.9 kB                        Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/ow2/asm/asm/6.1.1/asm-6.1.1.pom (2.9 kB at 6.5 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/shared/maven-artifact-transfer/0.9.1/maven-artifact-transfer-0.9.1.pom
+Progress (1): 3.6/7.6 kBProgress (1): 7.6 kB                        Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/shared/maven-artifact-transfer/0.9.1/maven-artifact-transfer-0.9.1.pom (7.6 kB at 20 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/shared/maven-dependency-analyzer/1.10/maven-dependency-analyzer-1.10.jar
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/shared/maven-artifact-transfer/0.9.1/maven-artifact-transfer-0.9.1.jar
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/ow2/asm/asm/6.1.1/asm-6.1.1.jar
+Progress (1): 3.9/35 kBProgress (1): 8.0/35 kBProgress (1): 11/35 kB Progress (1): 15/35 kBProgress (1): 19/35 kBProgress (1): 22/35 kBProgress (1): 25/35 kBProgress (1): 29/35 kBProgress (1): 33/35 kBProgress (1): 35 kB   Progress (2): 35 kB | 4.1/123 kBProgress (2): 35 kB | 6.7/123 kBProgress (2): 35 kB | 11/123 kB Progress (2): 35 kB | 14/123 kBProgress (2): 35 kB | 18/123 kBProgress (2): 35 kB | 22/123 kBProgress (2): 35 kB | 25/123 kBProgress (2): 35 kB | 29/123 kBProgress (2): 35 kB | 33/123 kBProgress (2): 35 kB | 38/123 kBProgress (2): 35 kB | 42/123 kBProgress (2): 35 kB | 46/123 kBProgress (2): 35 kB | 50/123 kBProgress (2): 35 kB | 54/123 kBProgress (2): 35 kB | 57/123 kBProgress (3): 35 kB | 57/123 kB | 3.9/108 kBProgress (3): 35 kB | 60/123 kB | 3.9/108 kBProgress (3): 35 kB | 62/123 kB | 3.9/108 kBProgress (3): 35 kB | 65/123 kB | 3.9/108 kBProgress (3): 35 kB | 69/123 kB | 3.9/108 kBProgress (3): 35 kB | 73/123 kB | 3.9/108 kBProgress (3): 35 kB | 78/123 kB | 3.9/108 kBProgress (3): 35 kB | 82/123 kB | 3.9/108 kBProgress (3): 35 kB | 86/123 kB | 3.9/108 kBProgress (3): 35 kB | 90/123 kB | 3.9/108 kBProgress (3): 35 kB | 94/123 kB | 3.9/108 kBProgress (3): 35 kB | 98/123 kB | 3.9/108 kBProgress (3): 35 kB | 102/123 kB | 3.9/108 kBProgress (3): 35 kB | 106/123 kB | 3.9/108 kBProgress (3): 35 kB | 110/123 kB | 3.9/108 kBProgress (3): 35 kB | 114/123 kB | 3.9/108 kBProgress (3): 35 kB | 117/123 kB | 3.9/108 kBProgress (3): 35 kB | 117/123 kB | 8.0/108 kBProgress (3): 35 kB | 117/123 kB | 12/108 kB Progress (3): 35 kB | 117/123 kB | 16/108 kBProgress (3): 35 kB | 117/123 kB | 20/108 kBProgress (3): 35 kB | 117/123 kB | 22/108 kBProgress (3): 35 kB | 119/123 kB | 22/108 kBProgress (3): 35 kB | 123 kB | 22/108 kB                                            Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/shared/maven-dependency-analyzer/1.10/maven-dependency-analyzer-1.10.jar (35 kB at 65 kB/s)
+Progress (2): 123 kB | 25/108 kBProgress (2): 123 kB | 28/108 kBProgress (2): 123 kB | 32/108 kBProgress (2): 123 kB | 35/108 kBProgress (2): 123 kB | 38/108 kBProgress (2): 123 kB | 42/108 kBProgress (2): 123 kB | 46/108 kBProgress (2): 123 kB | 50/108 kBProgress (2): 123 kB | 55/108 kBProgress (2): 123 kB | 57/108 kBProgress (2): 123 kB | 60/108 kBProgress (2): 123 kB | 64/108 kBProgress (2): 123 kB | 68/108 kBProgress (2): 123 kB | 71/108 kBProgress (2): 123 kB | 75/108 kBProgress (2): 123 kB | 78/108 kBProgress (2): 123 kB | 82/108 kBProgress (2): 123 kB | 86/108 kBProgress (2): 123 kB | 89/108 kBProgress (2): 123 kB | 94/108 kBProgress (2): 123 kB | 97/108 kBProgress (2): 123 kB | 100/108 kBProgress (2): 123 kB | 102/108 kBProgress (2): 123 kB | 105/108 kBProgress (2): 123 kB | 108 kB                                 Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/maven/shared/maven-artifact-transfer/0.9.1/maven-artifact-transfer-0.9.1.jar (123 kB at 129 kB/s)
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/ow2/asm/asm/6.1.1/asm-6.1.1.jar (108 kB at 567 B/s)
+[INFO] com.deng:config-server:jar:0.0.1-SNAPSHOT
+[INFO] +- org.springframework.boot:spring-boot-starter-web:jar:2.1.6.RELEASE:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter:jar:2.1.6.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot:jar:2.1.6.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-autoconfigure:jar:2.1.6.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-starter-logging:jar:2.1.6.RELEASE:compile
+[INFO] |  |  |  +- ch.qos.logback:logback-classic:jar:1.2.3:compile
+[INFO] |  |  |  |  \- ch.qos.logback:logback-core:jar:1.2.3:compile
+[INFO] |  |  |  +- org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2:compile
+[INFO] |  |  |  |  \- org.apache.logging.log4j:log4j-api:jar:2.11.2:compile
+[INFO] |  |  |  \- org.slf4j:jul-to-slf4j:jar:1.7.26:compile
+[INFO] |  |  \- javax.annotation:javax.annotation-api:jar:1.3.2:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter-json:jar:2.1.6.RELEASE:compile
+[INFO] |  |  +- com.fasterxml.jackson.core:jackson-databind:jar:2.9.9:compile
+[INFO] |  |  +- com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.9:compile
+[INFO] |  |  +- com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.9:compile
+[INFO] |  |  \- com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.9:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.6.RELEASE:compile
+[INFO] |  |  +- org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.21:compile
+[INFO] |  |  +- org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.21:compile
+[INFO] |  |  \- org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.21:compile
+[INFO] |  +- org.hibernate.validator:hibernate-validator:jar:6.0.17.Final:compile
+[INFO] |  |  +- javax.validation:validation-api:jar:2.0.1.Final:compile
+[INFO] |  |  +- org.jboss.logging:jboss-logging:jar:3.3.2.Final:compile
+[INFO] |  |  \- com.fasterxml:classmate:jar:1.4.0:compile
+[INFO] |  +- org.springframework:spring-web:jar:5.1.8.RELEASE:compile
+[INFO] |  |  \- org.springframework:spring-beans:jar:5.1.8.RELEASE:compile
+[INFO] |  \- org.springframework:spring-webmvc:jar:5.1.8.RELEASE:compile
+[INFO] |     +- org.springframework:spring-aop:jar:5.1.8.RELEASE:compile
+[INFO] |     +- org.springframework:spring-context:jar:5.1.8.RELEASE:compile
+[INFO] |     \- org.springframework:spring-expression:jar:5.1.8.RELEASE:compile
+[INFO] +- org.springframework.cloud:spring-cloud-config-server:jar:2.1.3.RELEASE:compile
+[INFO] |  +- org.springframework.cloud:spring-cloud-config-client:jar:2.1.3.RELEASE:compile
+[INFO] |  |  +- org.springframework.cloud:spring-cloud-commons:jar:2.1.2.RELEASE:compile
+[INFO] |  |  +- org.springframework.cloud:spring-cloud-context:jar:2.1.2.RELEASE:compile
+[INFO] |  |  \- com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter-actuator:jar:2.1.6.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.6.RELEASE:compile
+[INFO] |  |  |  \- org.springframework.boot:spring-boot-actuator:jar:2.1.6.RELEASE:compile
+[INFO] |  |  \- io.micrometer:micrometer-core:jar:1.1.5:compile
+[INFO] |  |     +- org.hdrhistogram:HdrHistogram:jar:2.1.9:compile
+[INFO] |  |     \- org.latencyutils:LatencyUtils:jar:2.0.3:compile
+[INFO] |  +- org.springframework.security:spring-security-crypto:jar:5.1.5.RELEASE:compile
+[INFO] |  +- org.springframework.security:spring-security-rsa:jar:1.0.7.RELEASE:compile
+[INFO] |  |  \- org.bouncycastle:bcpkix-jdk15on:jar:1.60:compile
+[INFO] |  |     \- org.bouncycastle:bcprov-jdk15on:jar:1.60:compile
+[INFO] |  +- org.eclipse.jgit:org.eclipse.jgit:jar:5.1.3.201810200350-r:compile
+[INFO] |  |  +- com.jcraft:jsch:jar:0.1.54:compile
+[INFO] |  |  +- com.jcraft:jzlib:jar:1.1.1:compile
+[INFO] |  |  +- com.googlecode.javaewah:JavaEWAH:jar:1.1.6:compile
+[INFO] |  |  \- org.slf4j:slf4j-api:jar:1.7.26:compile
+[INFO] |  +- org.eclipse.jgit:org.eclipse.jgit.http.apache:jar:5.1.3.201810200350-r:compile
+[INFO] |  |  +- org.apache.httpcomponents:httpclient:jar:4.5.9:compile
+[INFO] |  |  |  \- commons-codec:commons-codec:jar:1.11:compile
+[INFO] |  |  \- org.apache.httpcomponents:httpcore:jar:4.4.11:compile
+[INFO] |  \- org.yaml:snakeyaml:jar:1.23:compile
+[INFO] +- org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:2.1.2.RELEASE:compile
+[INFO] |  +- org.springframework.cloud:spring-cloud-starter:jar:2.1.2.RELEASE:compile
+[INFO] |  +- org.springframework.cloud:spring-cloud-netflix-hystrix:jar:2.1.2.RELEASE:compile
+[INFO] |  |  \- org.springframework.boot:spring-boot-starter-aop:jar:2.1.6.RELEASE:compile
+[INFO] |  |     \- org.aspectj:aspectjweaver:jar:1.9.4:compile
+[INFO] |  +- org.springframework.cloud:spring-cloud-netflix-eureka-client:jar:2.1.2.RELEASE:compile
+[INFO] |  +- com.netflix.eureka:eureka-client:jar:1.9.12:compile
+[INFO] |  |  +- org.codehaus.jettison:jettison:jar:1.3.7:runtime
+[INFO] |  |  |  \- stax:stax-api:jar:1.0.1:runtime
+[INFO] |  |  +- com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0:runtime
+[INFO] |  |  |  +- com.netflix.netflix-commons:netflix-infix:jar:0.3.0:runtime
+[INFO] |  |  |  |  +- commons-jxpath:commons-jxpath:jar:1.3:runtime
+[INFO] |  |  |  |  +- joda-time:joda-time:jar:2.10.2:runtime
+[INFO] |  |  |  |  +- org.antlr:antlr-runtime:jar:3.4:runtime
+[INFO] |  |  |  |  |  +- org.antlr:stringtemplate:jar:3.2.1:runtime
+[INFO] |  |  |  |  |  \- antlr:antlr:jar:2.7.7:runtime
+[INFO] |  |  |  |  \- com.google.code.gson:gson:jar:2.8.5:runtime
+[INFO] |  |  |  \- org.apache.commons:commons-math:jar:2.2:runtime
+[INFO] |  |  +- com.netflix.archaius:archaius-core:jar:0.7.6:compile
+[INFO] |  |  |  \- com.google.guava:guava:jar:16.0:runtime
+[INFO] |  |  +- javax.ws.rs:jsr311-api:jar:1.1.1:runtime
+[INFO] |  |  +- com.netflix.servo:servo-core:jar:0.12.21:runtime
+[INFO] |  |  +- com.sun.jersey:jersey-core:jar:1.19.1:runtime
+[INFO] |  |  +- com.sun.jersey:jersey-client:jar:1.19.1:runtime
+[INFO] |  |  +- com.sun.jersey.contribs:jersey-apache-client4:jar:1.19.1:runtime
+[INFO] |  |  +- com.google.inject:guice:jar:4.1.0:runtime
+[INFO] |  |  |  +- javax.inject:javax.inject:jar:1:runtime
+[INFO] |  |  |  \- aopalliance:aopalliance:jar:1.0:runtime
+[INFO] |  |  +- com.github.vlsi.compactmap:compactmap:jar:1.2.1:runtime
+[INFO] |  |  |  \- com.github.andrewoma.dexx:dexx-collections:jar:0.2:runtime
+[INFO] |  |  \- com.fasterxml.jackson.core:jackson-core:jar:2.9.9:compile
+[INFO] |  +- com.netflix.eureka:eureka-core:jar:1.9.12:compile
+[INFO] |  |  \- com.fasterxml.woodstox:woodstox-core:jar:5.0.3:runtime
+[INFO] |  |     \- org.codehaus.woodstox:stax2-api:jar:3.1.4:runtime
+[INFO] |  +- org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.2.RELEASE:compile
+[INFO] |  |  +- org.springframework.cloud:spring-cloud-netflix-ribbon:jar:2.1.2.RELEASE:compile
+[INFO] |  |  +- org.springframework.cloud:spring-cloud-netflix-archaius:jar:2.1.2.RELEASE:compile
+[INFO] |  |  \- commons-configuration:commons-configuration:jar:1.8:compile
+[INFO] |  |     \- commons-lang:commons-lang:jar:2.6:compile
+[INFO] |  +- org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.2.RELEASE:compile
+[INFO] |  |  +- com.netflix.ribbon:ribbon:jar:2.3.0:compile
+[INFO] |  |  |  +- com.netflix.ribbon:ribbon-transport:jar:2.3.0:runtime
+[INFO] |  |  |  |  +- io.reactivex:rxnetty-contexts:jar:0.4.9:runtime
+[INFO] |  |  |  |  \- io.reactivex:rxnetty-servo:jar:0.4.9:runtime
+[INFO] |  |  |  +- com.netflix.hystrix:hystrix-core:jar:1.5.18:runtime
+[INFO] |  |  |  \- io.reactivex:rxnetty:jar:0.4.9:runtime
+[INFO] |  |  +- com.netflix.ribbon:ribbon-core:jar:2.3.0:compile
+[INFO] |  |  +- com.netflix.ribbon:ribbon-httpclient:jar:2.3.0:compile
+[INFO] |  |  |  +- commons-collections:commons-collections:jar:3.2.2:runtime
+[INFO] |  |  |  \- com.netflix.netflix-commons:netflix-commons-util:jar:0.3.0:runtime
+[INFO] |  |  +- com.netflix.ribbon:ribbon-loadbalancer:jar:2.3.0:compile
+[INFO] |  |  |  \- com.netflix.netflix-commons:netflix-statistics:jar:0.1.1:runtime
+[INFO] |  |  \- io.reactivex:rxjava:jar:1.3.8:compile
+[INFO] |  +- com.netflix.ribbon:ribbon-eureka:jar:2.3.0:compile
+[INFO] |  \- com.thoughtworks.xstream:xstream:jar:1.4.10:compile
+[INFO] |     +- xmlpull:xmlpull:jar:1.1.3.1:compile
+[INFO] |     \- xpp3:xpp3_min:jar:1.1.4c:compile
+[INFO] \- org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE:test
+[INFO]    +- org.springframework.boot:spring-boot-test:jar:2.1.6.RELEASE:test
+[INFO]    +- org.springframework.boot:spring-boot-test-autoconfigure:jar:2.1.6.RELEASE:test
+[INFO]    +- com.jayway.jsonpath:json-path:jar:2.4.0:test
+[INFO]    |  \- net.minidev:json-smart:jar:2.3:test
+[INFO]    |     \- net.minidev:accessors-smart:jar:1.2:test
+[INFO]    |        \- org.ow2.asm:asm:jar:5.0.4:test
+[INFO]    +- junit:junit:jar:4.12:test
+[INFO]    +- org.assertj:assertj-core:jar:3.11.1:test
+[INFO]    +- org.mockito:mockito-core:jar:2.23.4:test
+[INFO]    |  +- net.bytebuddy:byte-buddy:jar:1.9.13:test
+[INFO]    |  +- net.bytebuddy:byte-buddy-agent:jar:1.9.13:test
+[INFO]    |  \- org.objenesis:objenesis:jar:2.6:test
+[INFO]    +- org.hamcrest:hamcrest-core:jar:1.3:test
+[INFO]    +- org.hamcrest:hamcrest-library:jar:1.3:test
+[INFO]    +- org.skyscreamer:jsonassert:jar:1.5.0:test
+[INFO]    |  \- com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test
+[INFO]    +- org.springframework:spring-core:jar:5.1.8.RELEASE:compile
+[INFO]    |  \- org.springframework:spring-jcl:jar:5.1.8.RELEASE:compile
+[INFO]    +- org.springframework:spring-test:jar:5.1.8.RELEASE:test
+[INFO]    \- org.xmlunit:xmlunit-core:jar:2.6.2:test
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  03:34 min
+[INFO] Finished at: 2019-08-25T17:10:41+08:00
+[INFO] ------------------------------------------------------------------------

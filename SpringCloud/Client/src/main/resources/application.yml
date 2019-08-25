@@ -1,7 +1,23 @@
 spring:
   profiles:
     active: c1
+  rabbitmq:
+    host: 47.107.97.137
+    port: 61616
+    username: admin
+    password: Bdp51AX9px0XRm5u9HCjcQjLD
+  cloud:
+    bus:
+      enabled: true
+      trace:
+        enabled: true
 eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8880/eureka/
+management:
+  endpoints:
+    web:
+      exposure:
+        exclude: bus-refresh
+
